@@ -45,7 +45,7 @@ when installing the php Program this will allow me access to IIS (Information in
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-this is me installing mysql 
+I installed the MySQL 5.5.62 package for Windows (mysql-5.5.62-win32.msi) to implement the MySQL database system on Windows servers, which is a core component for the functionality of OS Ticket. This installation ensured a stable and efficient database environment for OS Ticket, an open-source support ticket system widely used for managing customer support queries. With MySQL 5.5.62, I was able to provide the necessary database infrastructure to store and retrieve ticket information, ensuring smooth operation and quick response times. This installation was crucial for leveraging OS Ticket’s full potential, making it a critical step in setting up a reliable and high-performance support ticket system.
 </p>
 <br />
 
