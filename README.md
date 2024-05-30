@@ -31,15 +31,13 @@ CGI and Common HTTP Features
 - Install osTicket v1.15.8
 - download and install HeidiSQL
 
-
-<h2>Installation Steps</h2>
-
+<br />
 <p>
-<img src="![php manager or iis](https://github.com/Mt223492/osticket-prereqs/assets/82423860/51bcbf38-858a-42e7-b055-295e6fa61295)
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+when installing the php Program this will allow me access to IIS (Information internet services). once installed i can enable cgi and common Http features to allow the domain to show on my webbrowser. this application allows me to edit os Ticket when insatalled. 
 </p>
 <br />
 
@@ -47,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+this is me installing mysql 
 </p>
 <br />
 
