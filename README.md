@@ -37,7 +37,7 @@ CGI and Common HTTP Features
 " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-when installing the php Program this will allow me access to IIS (Information internet services). once installed i can enable cgi and common Http features to allow the domain to show on my webbrowser. this application allows me to edit os Ticket when insatalled. 
+I installed PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) to enhance the management of PHP applications on Windows servers. This tool is vital for configuring and maintaining PHP settings within Internet Information Services (IIS). By using PHP Manager, I streamlined the process of registering PHP with IIS, managing multiple PHP installations, and optimizing PHP settings for improved performance and security. This installation was essential for ensuring that PHP applications, such as OS Ticket, run smoothly and efficiently on the server, making it a crucial step in setting up a robust and high-performing web environment.
 </p>
 <br />
 
