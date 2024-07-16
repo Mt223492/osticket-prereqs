@@ -53,6 +53,6 @@ I installed the MySQL 5.5.62 package for Windows (mysql-5.5.62-win32.msi) to imp
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I installed MySQL 5.5.62 for Windows (mysql-5.5.62-win32.msi) to implement the MySQL database system on Windows servers, which is essential for the functionality of OS Ticket. This installation ensured a stable and efficient database environment for OS Ticket, an open-source support ticket system widely used for managing customer support queries. With MySQL 5.5.62, I provided the necessary database infrastructure to store and retrieve ticket information, ensuring smooth operation and quick response times. This step was crucial for leveraging OS Ticket’s full potential, making it an essential part of setting up a reliable and high-performance support ticket system.
+To streamline my database management and enhance my efficiency, I independently downloaded and installed HeidiSQL. This robust tool provides a user-friendly interface for managing MySQL, MariaDB, and PostgreSQL databases. The installation process was straightforward, allowing for quick deployment and immediate usability. HeidiSQL's features, such as data browsing, editing, and powerful query execution, significantly improved my workflow. By integrating HeidiSQL into my operations, I achieved better database administration, seamless data handling, and overall improved productivity in my work.
 </p>
 <br />
